@@ -1,4 +1,4 @@
-# Technix'21 (AUTONOMOUS DRONE EVENT)
+# Technex'21 (AUTONOMOUS DRONE EVENT)
 ## Event Detail
 In the autonomous event we are using Webots simulation.
 
