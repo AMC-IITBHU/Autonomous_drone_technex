@@ -39,7 +39,7 @@ There will be a world file (.wbt) in this zip file . Teams have to open this wor
     - An english alphabet letter.
   ![second](amc/second.jpeg)
   - Last image will contain 4 QR-codes and teams have to land their drones on one of them.
-  ![third](amc/end.jpg)
+  ![third](amc/end.JPG)
 
 
 >NOTE:- Images may not be placed in proper orientation team have to make them useable.
