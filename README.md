@@ -61,5 +61,6 @@ There will be a world file (.wbt) in this zip file . Teams have to open this wor
 ## Submission instruction
 - Teams have to submit youtube link of their simulation along with complete screen using some screen recorder tools. NOTE:- don't use inbuild recorder of Webots.
 - Youtube video must be unlisted and should have title as the team name and team leader name respectively.
-- Teams also have to submit their controller code. NOTE:- Avoid hardcoding.     
+- Teams also have to submit their controller code. NOTE:- Avoid hardcoding. 
+- Submissions will be on AMC official [webpage](https://forms.gle/4rLceiFoksNxGdtN6).     
    
