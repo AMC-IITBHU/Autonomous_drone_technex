@@ -56,7 +56,8 @@ There will be a world file (.wbt) in this zip file . Teams have to open this wor
 - Also drone have 4 distance sensors (for collision avoidance with buildings), 3 in horizontal direction pointing towards drone front side and 1 vertical pointing toward ground.
 ![dji2](amc/dji2.png)
 - We have provided basic code with some function and a basic but not perfect control system from drone . Teams could either use these or use their own code. (The provided code is basically for your understanding about how to code in controller).
-- To know about the sensors used in drones refer to this [link](https://github.com/cyberbotics/webots/tree/released/docs/reference)
+- To know about the sensors used in drones refer this [link](https://github.com/cyberbotics/webots/tree/released/docs/reference)
+- To know about the specification of drone refer this [link](https://www.cyberbotics.com/doc/guide/mavic-2-pro?version=develop#mavic2pro-field-summary)
 
 ## Submission instruction
 - Teams have to submit youtube link of their simulation along with complete screen using some screen recorder tools. NOTE:- don't use inbuild recorder of Webots.
